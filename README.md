@@ -1,3 +1,10 @@
+https://andxbes.github.io/react_investment_calc/
+
+https://create-react-app.dev/docs/deployment/#github-pages
+
+npm run deploy
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
