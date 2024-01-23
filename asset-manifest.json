@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%20//andxbes.github.io/react_investment_calc/static/css/main.1a0b8b2b.css",
+    "main.js": "/%20//andxbes.github.io/react_investment_calc/static/js/main.d2a62621.js",
+    "static/js/787.bd9e8d59.chunk.js": "/%20//andxbes.github.io/react_investment_calc/static/js/787.bd9e8d59.chunk.js",
+    "static/media/investment-calculator-logo.png": "/%20//andxbes.github.io/react_investment_calc/static/media/investment-calculator-logo.c20da4d5b23f8d49ad00.png",
+    "index.html": "/%20//andxbes.github.io/react_investment_calc/index.html",
+    "main.1a0b8b2b.css.map": "/%20//andxbes.github.io/react_investment_calc/static/css/main.1a0b8b2b.css.map",
+    "main.d2a62621.js.map": "/%20//andxbes.github.io/react_investment_calc/static/js/main.d2a62621.js.map",
+    "787.bd9e8d59.chunk.js.map": "/%20//andxbes.github.io/react_investment_calc/static/js/787.bd9e8d59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a0b8b2b.css",
+    "static/js/main.d2a62621.js"
+  ]
+}
