@@ -1,6 +1,9 @@
 https://andxbes.github.io/react_investment_calc/
 
+
+#Deploy 
 https://create-react-app.dev/docs/deployment/#github-pages
+https://github.com/gitname/react-gh-pages
 
 npm run deploy
 
